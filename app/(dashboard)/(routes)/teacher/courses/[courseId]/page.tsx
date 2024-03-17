@@ -24,7 +24,7 @@ const CourseIdPage = async({
         return redirect("/");
     }
 
-    
+     
 
     const requiredFields = [
         course.title,
